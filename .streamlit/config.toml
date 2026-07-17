@@ -1,0 +1,13 @@
+[server]
+port = 5000
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[theme]
+base = "light"
+primaryColor = "#6C3DE8"
+backgroundColor = "#F8F5FF"
+secondaryBackgroundColor = "#EDE7FF"
+textColor = "#1A1A2E"
+font = "sans serif"
